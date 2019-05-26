@@ -1,7 +1,7 @@
 {
   "name": "ember-flex",
   "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Simple flex HTML classes for quickly iterating through layouts.",
   "keywords": [
     "ember-addon"
   ],
