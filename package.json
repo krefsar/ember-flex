@@ -10,7 +10,11 @@
     "url": "https://github.com/krefsar/ember-flex.git"
   },
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Evan Martinez",
+    "email": "evanm.design@gmail.com",
+    "url": "https://github.com/krefsar"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
